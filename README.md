@@ -11,3 +11,10 @@
     $ git push orgin master
 
     $ git pull
+
+    PR: pull request
+        create[reviewers] > appove > merge
+
+# Router
+
+    $ npm install react-router-dom@6
